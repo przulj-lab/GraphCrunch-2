@@ -172,8 +172,8 @@ If you have questions or if you would like to contribute to the GraphCrunch plea
 
 **Software developers, paper authors:**
 
-Oleksii Kuchaiev, e-mail: oleksii.kuchaiev [AT] uci.edu  
-Aleksandar Stevanovic, e-mail: astevano [AT] ics.uci.edu
+Oleksii Kuchaiev, e-mail: oleksii.kuchaiev@uci.edu  
+Aleksandar Stevanovic, e-mail: astevano@ics.uci.edu
 
 **Principal investigator and corresponding author:**
 
